@@ -16,8 +16,8 @@ class StoryAttachment():
         self.chat = chat
         self.restTemplate = RestTemplate()
         self.fileHelper = FileHelper()
-        # self.attachmentApi = "http://tracker.paas.cmbchina.cn/tracker/attachment/queryAttachFile?referenceId=" + storyId + "&type=story"
-        self.attachmentApi = "http://localhost:3000/tracker/attachment/queryAttachFile?referenceId=" + storyId + "&type=story"
+        self.attachmentApi = "http://tracker.paas.cmbchina.cn/tracker/attachment/queryAttachFile?referenceId=" + storyId + "&type=story"
+        # self.attachmentApi = "http://localhost:3000/tracker/attachment/queryAttachFile?referenceId=" + storyId + "&type=story"
 
     def start(self):
         try:
