@@ -1,21 +1,77 @@
 {
+  "233333": {
+    "result": "true",
+    "message": "",
+    "content": "",
+    "list": [],
+    "map": ""
+  },
   "666666": {
-      "result": "true",
-      "message": "",
-      "content": "",
-      "list": [
-        {
-          "id": 12670,
-          "referenceId": "278922",
-          "oldReferenceId": "",
-          "type": "story",
-          "url": "http://99.1.88.94/devopsfiles/61/story/278922/签约优化新方案700320190513-113705.png",
-          "fileName": "签约优化新方案.png",
-          "updateTime": "2019-05-13 11:37:06",
-          "status": "1",
-          "createdBy": "赵英CS800563"
-        }
-      ],
-      "map": ""
-    }
+    "result": "true",
+    "message": "",
+    "content": "",
+    "list": [
+      {
+        "id": 12671,
+        "referenceId": "278922",
+        "oldReferenceId": "",
+        "type": "story",
+        "url": "http://images.mahui53541.com/11.jpeg",
+        "fileName": "hhh.png",
+        "updateTime": "2019-05-13 11:37:06",
+        "status": "1",
+        "createdBy": "赵英CS800563"
+      }
+    ],
+    "map": ""
+  },
+  "777777": {
+    "result": "true",
+    "message": "",
+    "content": "",
+    "list": [
+      {
+        "id": 12671,
+        "referenceId": "278922",
+        "oldReferenceId": "",
+        "type": "story",
+        "url": "http://images.mahui53541.com/%E5%B0%8F%E9%B8%A1%E5%B0%86%E6%85%A2%E6%85%A2%E9%95%BF%E5%A4%A7.pdf",
+        "fileName": "hhh.pdf",
+        "updateTime": "2019-05-13 11:37:06",
+        "status": "1",
+        "createdBy": "赵英CS800563"
+      }
+    ],
+    "map": ""
+  },
+  "888888": {
+    "result": "true",
+    "message": "",
+    "content": "",
+    "list": [
+      {
+        "id": 12672,
+        "referenceId": "278922",
+        "oldReferenceId": "",
+        "type": "story",
+        "url": "http://images.mahui53541.com/fullsizeoutput_31.jpeg",
+        "fileName": "签约优化新方案.png",
+        "updateTime": "2019-05-13 11:37:06",
+        "status": "1",
+        "createdBy": "赵英CS800563"
+      },
+      {
+        "id": 12674,
+        "referenceId": "278922",
+        "oldReferenceId": "",
+        "type": "story",
+        "url": "http://images.mahui53541.com/fullsizeoutput_32.jpeg",
+        "fileName": "hhh.png",
+        "updateTime": "2019-05-13 11:37:06",
+        "status": "1",
+        "createdBy": "赵英CS800563"
+      }
+    ],
+    "map": ""
+  }
 }
