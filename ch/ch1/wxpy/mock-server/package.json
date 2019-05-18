@@ -1,0 +1,14 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "mock server for chichen",
+  "main": "index.js",
+  "author": "MaHui",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  }
+}
